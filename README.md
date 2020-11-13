@@ -1,5 +1,5 @@
 # wordCloud
-Python script designed to search wikipedia for subject (i.e. 'Amazon') and output a word cloud in the form of the company logo. Examples below.
+Python script designed to search wikipedia for a subject (i.e. 'Amazon') and output a word cloud in the form of the company logo. Examples below.
 
 ![amz](https://user-images.githubusercontent.com/20881630/99017354-58dba100-251d-11eb-970e-9ca5d1ca7c78.png)
 ![apl](https://user-images.githubusercontent.com/20881630/99017356-59743780-251d-11eb-804a-af25e23aa0fa.png)
